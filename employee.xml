@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee SYSTEM "employee.dtd">
+<AJG>
+	<integration tid = "A1" lang = "java">
+			<teamsize>9</teamsize>
+			<tool>adeptia</tool>
+			<score>95</score>
+	</integration>
+	
+	<salesforce tid = "B1" lang = "c" >
+			<teamsize>9</teamsize>
+			<tool>apex</tool>
+			<score>50</score>
+	</salesforce>
+</AJG>

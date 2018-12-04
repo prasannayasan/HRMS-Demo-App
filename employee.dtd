@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      
+<!ELEMENT AJG (integration,salesforce)>
+<!ELEMENT integration (teamsize,tool,score)>
+<!ATTLIST integration lang (java|python|c) "java">
+<!ELEMENT teamsize (#PCDATA)>
+<!ELEMENT tool (#PCDATA)>
+<!ELEMENT score (#PCDATA)>
+<!ATTLIST integration tid ID #REQUIRED>
+<!ELEMENT salesforce (teamsize,tool,score)>
+<!ATTLIST salesforce tid ID #REQUIRED>
+<!ATTLIST salesforce lang (java|python|c) "c">
