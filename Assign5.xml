@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Employees>
+
+	<Employee empid="1111">
+		<name>michel</name>
+		<age>30</age>
+		<salary>37800</salary>
+	</Employee>
+	
+	<Employee empid="2222">
+		<name>Shankar</name>
+		<age>62</age>
+		<salary>96400</salary>
+	</Employee>
+	
+	<Employee empid="3333">
+		<name>Mithun</name>
+		<age>52</age>
+		<salary>5000</salary>
+	</Employee>
+	
+	<Employee empid="4444">
+		<name>ramar</name>
+		<age>21</age>
+		<salary>45600</salary>
+	</Employee>
+		
+	<Employee empid="5555">
+		<name>sabri</name>
+		<age>73</age>
+		<salary>185600</salary>
+	</Employee>
+	
+</Employees>
